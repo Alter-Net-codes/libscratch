@@ -13,3 +13,6 @@ Or, if you like C++, you can install it using the CMakeLists.txt in the `scripts
 
 ## Documentation
 There will be a `docs/` folder when the API is *relatively* stable. 
+
+## Contribution
+If you want to contribute, put a PR from the dev branch. Releases should consiste of **BOTH** a Python release and C++ release.
