@@ -13,7 +13,7 @@ from libscratch import ScratchBlock, ScratchVirtualMchine
 ```
 
 ## Installation
-libscratch should soon be available on [pip](https://pypi.org), so you can install it like this to use the complimentary Python API:
+libscratch should soon be available on [pypi](https://pypi.org), so you can install it like this to use the complimentary Python API:
 `pip install libscratch`
 
 Or, if you like C++, you can install it using the CMakeLists.txt in the root directory. Please note the use of the BSD-3-Clause "New" or "Revised" License.
