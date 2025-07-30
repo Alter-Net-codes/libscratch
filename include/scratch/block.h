@@ -8,7 +8,7 @@
 
 #include "field.h"
 
-namespace scratch {
+namespace scratch3cpp {
 /**
  * @brief Represents a block in a Scratch project.
  *
