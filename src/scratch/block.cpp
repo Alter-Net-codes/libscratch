@@ -4,3 +4,4 @@
 #include "../../include/scratch/block.h"
 
 // The rest is to come soon! I need a screen repair :)
+// good i don't know c lmao
