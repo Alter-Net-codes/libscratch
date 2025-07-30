@@ -5,7 +5,7 @@
 #include <string>
 #include <vector>
 
-namespace scratch {
+namespace scratch3cpp {
 /**
  * @brief Represents a field in a Scratch block.
  *
